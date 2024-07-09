@@ -1,2 +1,2 @@
-# javaweb_socket聊天室
-javaweb的实践，socket聊天室
+# java六级单词
+java的实践，六级单词小游戏
